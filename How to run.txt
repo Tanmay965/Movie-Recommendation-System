@@ -1,0 +1,1 @@
+To run it, open a terminal in that folder, run pip install -r requirements.txt, then python application.py, and go to http://127.0.0.1:5000
