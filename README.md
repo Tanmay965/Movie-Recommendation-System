@@ -8,7 +8,7 @@ Initially developed and tested in Jupyter Notebook, the project was extended wit
 
 ## Application Screenshot
 
-![Movie Recommendation System](static/UI.png)
+![Movie Recommendation System](UI.png)
 
 ---
 
